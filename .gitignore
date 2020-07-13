@@ -1,5 +1,14 @@
 # IDE Files
 .idea
 
+# Python Files
+__pycache__
+
+# Created Files
+submissions
+!submissions/.keep
+games
+!games/.keep
+
 # Test Files
-ttt.py
+test.py
